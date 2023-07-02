@@ -23,11 +23,11 @@ Projects:
 
 Teaching:
 ---
-1. Algorithm and Data Structure: autumn semester
+1. Algorithm and Data Structure: autumn semester(算法和数据结构)
 
-2. Python programming: spring semester
+2. Python programming: spring semester(Python编程)
    
-3.	C programming: spring semester
+3.	C programming: spring semester(C语言编程)
 
 
 
