@@ -1,7 +1,9 @@
 ---
-name: LinBin
+title: "LinBin"
 collection: GroupMermber
-type: "Undergraduate course"
-permalink:/GroupMermber/LinBin
-Year of Graduation: 2025
+type: "Undergraduate student"
+permalink: /GroupMermber/LinBin
+venue: "Fuzhou University"
+date: 2025-07-01
+location: "City, Country"
 ---
