@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "YingyaGuo/homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://guoyingya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "YingyaGuo"
+description              : &description "Fuzhou University"
+url                      : https://yingyaguo.github.io/guoyingya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yingyaguo/guoyingya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
