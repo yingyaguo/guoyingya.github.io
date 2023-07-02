@@ -1,5 +1,5 @@
 ---
-name: guoyingya
+name: LinBin
 collection: GroupMermber
 type: "Undergraduate course"
 permalink:/GroupMermber/LinBin
