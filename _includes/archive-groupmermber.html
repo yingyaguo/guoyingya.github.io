@@ -40,7 +40,7 @@
     {% endif %}
 
         {% if post.collection == 'GroupMermber' %}
-          <p> {{ post.name }}<i>{{ post.Year of Graduation }}</i> </p>
+          <p> {{ post.title }}<i>{{ post.Year of Graduation }}</i> </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
