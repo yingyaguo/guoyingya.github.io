@@ -13,6 +13,8 @@ My research interests include traffic engineering, routing optimization, resourc
 
 I am the leader of the AINET (AI for NETworking) group and focus on solving the computer network problems with AI techniques. If you have interests with my group or want to collaborate with me, please feel free to contact me by sending me emails. I am also looking for self-motivated, diligent students with a good personality. Please drop me emails with your CV after reading this (超链接可以下载PPT) if you want come to my group and let me be your supervisor. 
 
+Email: guoyy@fzu.edu.cn or guoyingya90@163.com.
+
 Projects:
 ---
 1. Routing Optimization via Deep Reinforcement Learning in Hybrid SDN, National Natural Science Foundation of China（PI）.
