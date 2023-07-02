@@ -1,22 +1,30 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am now an associate professor and master supervisor in College of Computer and Data Science, Fuzhou University. I am also the High Level Talents of Fujian (B level). I received the B.S degree in computer science from Xiamen University, China, in 2013 and Ph.D. degree from Tsinghua University in 2019 (Supervisor: Jianping Wu and Xia Yin). During my Ph.D. study, I won the CSC scholarship and studied in Tandon School of New York University as a visiting student under the supervision of Professor H. Jonathan Chao and Professor Yang Xu (now a full professor in Fudan University) during 2017.10-2018.09. I was also a Postdoc in the Polytechnic University of Hong Kong during 2020.11-2021.09 under the supervision of Professor Dan Wang.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research interests include traffic engineering, routing optimization, resource optimization, traffic anomaly detection, traffic prediction and mobile edge computing. I have authored or coauthored more than 20 research articles published in refereed journals and proceedings, including the IEEE Transaction on Networking, IEEE Transactions on Network and Service Management, Journal of Network and Computer Applications, Computer Networks, CONEXT, INFOCOM and ICNP. I served as the TPC member of IWQoS (CCF-B) in 2022. I am also a member of CCF Internet Technical Committee.
+
+I am the leader of the AINET (AI for NETworking) group and focus on solving the computer network problems with AI techniques. If you have interests with my group or want to collaborate with me, please feel free to contact me by sending me emails. I am also looking for self-motivated, diligent students with a good personality. Please drop me emails with your CV after reading this (超链接可以下载PPT) if you want come to my group and let me be your supervisor. 
 ---
-A data-driven personal website
+
+Projects:
 ---
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1.	Routing Optimization via Deep Reinforcement Learning in Hybrid SDN, National Natural Science Foundation of China（PI）.
+混合软件定义网络下基于深度增强学习的路由优化研究
+国家自然基金青年项目，主持，2021.01-2023.12
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+2.	Joint research and demonstration of international governance in cyberspace for IPv6, National Key Research and Development Program of China.
+面向 IPv6 的网络空间国际治理联合研发与示范
+国家重点研发计划，子课题骨干，2020.05-2023.05
+
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
