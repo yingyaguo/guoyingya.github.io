@@ -1,10 +1,13 @@
 ---
-title: "LinBin"
+title: "yanyi"
 collection: GroupMermber
 type: "Undergraduate student"
-permalink: /GroupMermber/LinBin
+permalink: /GroupMermber/yanyi
 venue: "Fuzhou University"
 date: 2025-07-01
 location: "City, Country"
-name: "linbin"
+name: "yanyi"
 ---
+
+linbin
+yangruiyu
