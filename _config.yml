@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YingyaGuo/homepage"
+title                    : "YingyaGuo"
 title_separator          : "-"
 name                     : &name "YingyaGuo"
 description              : &description "Fuzhou University"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yingyaguo"
+  github           : #"yingyaguo"
   google_plus      :
   keybase          :
   instagram        :
