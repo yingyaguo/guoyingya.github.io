@@ -18,5 +18,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-近五年代表作:
+其余代表作:
 ---
+{% for post in site.other_publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
