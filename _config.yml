@@ -183,6 +183,12 @@ collections:
   otherpublications:
     output: true
     permalink: /:collection/:path/
+  otherpublications2:
+    output: true
+    permalink: /:collection/:path/
+  otherpublications3:
+    output: true
+    permalink: /:collection/:path/
   GroupMember:
     output: true
     permalink: /:collection/:path/
@@ -245,6 +251,24 @@ defaults:
   - scope:
       path: ""
       type: otherpublications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _otherpublications2
+  - scope:
+      path: ""
+      type: otherpublications2
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _otherpublications3
+  - scope:
+      path: ""
+      type: otherpublications3
     values:
       layout: single
       author_profile: true
