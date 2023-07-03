@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "GroupMember"
+title: "Group Member"
 permalink: /GroupMember/
 author_profile: true
 ---
@@ -8,13 +8,13 @@ author_profile: true
 
 Undergraduate:
 ---
-Chen, Chen, master candidate, admitted in 2022.
+Chen, Chen, master candidate, admitted in 2021.
 
-Tang, Qi, master candidate, admitted in 2022.
+Tang, Qi, master candidate, admitted in 2021.
 
-Ma, Yulong, master candidate, admitted in 2022.
+Ma, Yulong, master candidate, admitted in 2021.
 
-Peng, Yufei, master candidate, admitted in 2022.
+Peng, Yufei, master candidate, admitted in 2021.
 
 Yang, Ruiyu, master candidate, admitted in 2022.
 
