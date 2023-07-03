@@ -1,8 +1,8 @@
 ---
 title: "LinBin"
-collection: GroupMermber
+collection: GroupMember
 type: "Undergraduate student"
-permalink: /GroupMermber/LinBin
+permalink: /GroupMember/LinBin
 venue: "Fuzhou University"
 date: 2022-07-01
 location: "City, Country"
