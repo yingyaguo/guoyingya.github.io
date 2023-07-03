@@ -6,8 +6,12 @@ permalink: /GroupMermber/yanyi
 venue: "Fuzhou University"
 date: 2025-07-01
 location: "City, Country"
-name: "yanyi"
+mermber1: linbin
+mermber2: yangruiyu
+mermber3: linbin
+mermber4: linbin
+mermber5: yangruiyu
 ---
 
-linbin
-yangruiyu
+
+
