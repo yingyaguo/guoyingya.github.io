@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yingya Guo"
   avatar           : "guoyingya.png"
-  bio              : "Associate professor,\n master supervisor,\n College of Computer and Data Science,\n Fuzhou University"
+  bio              : "Associate professor,"+"\n"+"master supervisor,College of Computer and Data Science,Fuzhou University"
   location         : "Fuzhou, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=nFh-9y0AAAAJ&hl=zh-CN&oi=sra"
-  email            : "guoyy@fzu.edu.cn"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
