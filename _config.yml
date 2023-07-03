@@ -180,6 +180,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  otherpublications:
+    output: true
+    permalink: /:collection/:path/
   GroupMember:
     output: true
     permalink: /:collection/:path/
@@ -233,6 +236,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _otherpublications
+  - scope:
+      path: ""
+      type: otherpublications
     values:
       layout: single
       author_profile: true
