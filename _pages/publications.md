@@ -13,7 +13,7 @@ author_profile: true
 
 近五年代表作:
 ---
-{% for post in site.publications reversed %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
 
