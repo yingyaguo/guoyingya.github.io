@@ -32,12 +32,8 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
         {% if post.collection == 'GroupMermber' %}
-            <img src="./images/guoyingya.png" >
-    <img src="../images/guoyingya.png" >
-            <img src="images/guoyingya.png" >
-          <p> {{ post.name }}
-          <br></br>
-          Year of Graduation: {{ post.date | date: "%Y" }}</p>
+          <img src="../images/guoyingya.png" >
+          <p> {{ post.name }}({{ post.date | date: "%Y" }})
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
