@@ -11,7 +11,7 @@ I am now an associate professor and master supervisor in College of Computer and
 
 My research interests include traffic engineering, routing optimization, resource optimization, traffic anomaly detection, traffic prediction and mobile edge computing. I have authored or coauthored more than 20 research articles published in refereed journals and proceedings, including the IEEE Transaction on Networking, IEEE Transactions on Network and Service Management, Journal of Network and Computer Applications, Computer Networks, CONEXT, INFOCOM and ICNP. I served as the TPC member of IWQoS (CCF-B) in 2022. I am also a member of CCF Internet Technical Committee.
 
-I am the leader of the AINET (AI for NETworking) group and focus on solving the computer network problems with AI techniques. If you have interests with my group or want to collaborate with me, please feel free to contact me by sending me emails. I am also looking for self-motivated, diligent students with a good personality. Please drop me emails with your CV after reading <a href="../requirement.pptx" download="requirement .pptx">[this]</a> if you want come to my group and let me be your supervisor. 
+I am the leader of the AINET (AI for NETworking) group and focus on solving the computer network problems with AI techniques. If you have interests with my group or want to collaborate with me, please feel free to contact me by sending me emails. I am also looking for self-motivated, diligent students with a good personality. Please drop me emails with your CV after reading <a href="../requirement .pptx" download="requirement .pptx">[this]</a> if you want come to my group and let me be your supervisor. 
 
 Email: guoyy@fzu.edu.cn or guoyingya90@163.com.
 
