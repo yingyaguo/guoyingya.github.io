@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-其余代表作:
+其余著作:
 ---
 {% for post in site.otherpublications reversed %}
   {% include archive-single.html %}
