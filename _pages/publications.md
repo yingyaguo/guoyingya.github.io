@@ -21,19 +21,19 @@ author_profile: true
 ---
 1.流量工程和路由优化
 -
-{% for post in site.otherpublications reversed %}
+{% for post in site.otherpublications2 reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 
 2.边缘计算和云计算
   -
-{% for post in site.otherpublications_1 reversed %}
+{% for post in site.otherpublications3 reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 3.网络流量预测和分类
 -
-{% for post in site.otherpublications_2 reversed %}
+{% for post in site.otherpublications reversed %}
   {% include archive-single.html %}
 {% endfor %}
