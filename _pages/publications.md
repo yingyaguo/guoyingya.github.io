@@ -20,6 +20,6 @@ author_profile: true
 
 其余代表作:
 ---
-{% for post in site.other_publications reversed %}
+{% for post in site.otherpublications reversed %}
   {% include archive-single.html %}
 {% endfor %}
