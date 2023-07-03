@@ -18,7 +18,9 @@ Email: guoyy@fzu.edu.cn or guoyingya90@163.com.
 Projects:
 ---
 1. Routing Optimization via Deep Reinforcement Learning in Hybrid SDN, National Natural Science Foundation of China（PI）.
+   
    混合软件定义网络下基于深度增强学习的路由优化研究——国家自然基金青年项目，主持，2021.01-2023.12
 
 2. Joint research and demonstration of international governance in cyberspace for IPv6, National Key Research and Development Program of China.
+   
   面向 IPv6 的网络空间国际治理联合研发与示范——国家重点研发计划，子课题骨干，2020.05-2023.05
