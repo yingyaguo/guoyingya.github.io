@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  GroupMermber:
+  GroupMember:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -223,7 +223,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: GroupMermber
+      type: GroupMember
     values:
       layout: single
       author_profile: true
