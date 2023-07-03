@@ -27,12 +27,6 @@ Projects:
 
 Teaching:
 ---
-1. C programming
-   
-    Spring Semester Course, Fuzhou University
-2. Algorithm and Data Structure
-   
-    Autumn Semester Course, Fuzhou University
-3. Python programming
-   
-    Spring Semester Course, Fuzhou University
+1. C programming, spring semester course, Fuzhou University
+2. Algorithm and Data Structure, autumn semester course, Fuzhou University
+3. Python programming, spring semester course, Fuzhou University
