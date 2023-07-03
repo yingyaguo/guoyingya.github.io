@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YingyaGuo"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "YingyaGuo"
 description              : &description "Fuzhou University"
