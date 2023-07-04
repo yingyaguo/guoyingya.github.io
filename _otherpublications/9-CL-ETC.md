@@ -1,5 +1,5 @@
 ---
-title: "Ziyi Zhao, Yingya Guo, Jessie Hui Wang, Haibo Wang, Chengyuan Zhang, Changqing An: CL-ETC: A Contrastive Learning Method for Encrypted Traffic Classification."
+title: "Ziyi Zhao, Yingya Guo, Jessie Hui Wang, Haibo Wang, Chengyuan Zhang, Changqing An: CL-ETC: A Contrastive Learning Method for Encrypted Traffic Classification[C]."
 collection: otherpublications
 permalink: /otherpublications/2022/10/9-CL-ETC
 date: 2022/10/9
